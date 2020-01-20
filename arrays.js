@@ -8,3 +8,11 @@ function destructivelyAddElementToBeginningOfArray(array, el){
   array.unshift(el)
   return array
 }
+
+function addElementToEndOfArray(array, el){
+
+}
+
+function destructivelyAddElementToEndOfArray(array, el){
+
+}
